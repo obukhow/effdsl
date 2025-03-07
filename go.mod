@@ -1,4 +1,4 @@
-module github.com/sdqri/effdsl/v2
+module github.com/obukhow/effdsl/v2
 
 go 1.18
 
